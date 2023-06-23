@@ -1,4 +1,4 @@
-package ru.education.test;
+package ru.education.sum;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
