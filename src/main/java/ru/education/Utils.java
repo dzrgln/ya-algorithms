@@ -13,6 +13,14 @@ public class Utils {
         System.out.println(res.toString().trim());
     }
 
+    public static void printArray(Integer[] array) {
+        StringBuilder res = new StringBuilder();
+        for (int i = 0; i < array.length; i++) {
+            res.append(array[i]).append(" ");
+        }
+        System.out.println(res.toString().trim());
+    }
+
     public static void generateRow(int n1, int n2, int a1, int a2){
         int n = (int) (Math.random() * (n2 - n1) + n1);
         StringBuilder sb = new StringBuilder();
