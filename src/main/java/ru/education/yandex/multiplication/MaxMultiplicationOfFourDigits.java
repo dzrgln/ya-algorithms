@@ -1,4 +1,4 @@
-package ru.education.multiplication;
+package ru.education.yandex.multiplication;
 
 import ru.education.Utils;
 

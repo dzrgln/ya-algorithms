@@ -1,4 +1,4 @@
-package ru.education.sum;
+package ru.education.yandex.sum;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

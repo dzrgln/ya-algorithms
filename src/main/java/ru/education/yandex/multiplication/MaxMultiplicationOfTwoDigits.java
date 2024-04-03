@@ -1,4 +1,4 @@
-package ru.education.multiplication;
+package ru.education.yandex.multiplication;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

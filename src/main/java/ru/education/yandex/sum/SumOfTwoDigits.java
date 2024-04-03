@@ -1,4 +1,4 @@
-package ru.education.sum;
+package ru.education.yandex.sum;
 
 import java.util.Scanner;
 
